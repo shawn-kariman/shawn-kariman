@@ -13,4 +13,4 @@ Passionate about clean code, 3D web experiences, and continuous learning. Let's 
 
 Skills: REACT / Three.js / JS / HTML / CSS / C
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shahriar-Kariman)](https://github.com/anuraghazra/github-readme-stats)
