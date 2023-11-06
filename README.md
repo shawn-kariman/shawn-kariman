@@ -13,4 +13,4 @@ Passionate about clean code, 3D web experiences, and continuous learning. Let's 
 
 Skills: REACT / Three.js / JS / HTML / CSS / C
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Kariman)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Kariman&layout=compact)
