@@ -1,6 +1,6 @@
-### Hi there 👋
-
-My name is Shahriar but everyone calls me Shawn and I am a:
+### Hi there 👋, my name is Shawn
+#### Aspiring Software Engineer
+Currently studying for my BSc at UNB in Fredericton NB Canada.
 
 👨‍💻 Software Engineering Student 🎓
 🚀 JavaScript & React Enthusiast
@@ -11,4 +11,6 @@ My name is Shahriar but everyone calls me Shawn and I am a:
 
 Passionate about clean code, 3D web experiences, and continuous learning. Let's connect and collaborate! ✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahriar-Kariman)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / Three.js / JS / HTML / CSS / C
+
+- 🔭 I’m currently working on this page. 
