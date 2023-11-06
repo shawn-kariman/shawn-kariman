@@ -3,6 +3,7 @@
 
 <br />
 Currently studying for my BSc at UNB in Fredericton NB Canada.
+\n
 
 👨‍💻 Software Engineering Student 🎓
 🚀 JavaScript & React Enthusiast
