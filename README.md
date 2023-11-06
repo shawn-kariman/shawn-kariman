@@ -13,4 +13,4 @@ Passionate about clean code, 3D web experiences, and continuous learning. Let's 
 
 Skills: REACT / Three.js / JS / HTML / CSS / C
 
-- 🔭 I’m currently working on this page. 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
