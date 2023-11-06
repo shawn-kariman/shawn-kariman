@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Shahriar-Kariman/Shahriar-Kariman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Shahriar but everyone calls me Shawn and I am a:
 
-Here are some ideas to get you started:
+👨‍💻 Software Engineering Student 🎓
+🚀 JavaScript & React Enthusiast
+🎮 3D Web Developer 🌐
+🔍 Always learning and exploring
+♟ Chess player ♛
+🎨 3D Artist with Blender 🖌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about clean code, 3D web experiences, and continuous learning. Let's connect and collaborate! ✨
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahriar-Kariman)](https://github.com/anuraghazra/github-readme-stats)
