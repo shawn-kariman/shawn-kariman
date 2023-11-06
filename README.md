@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Shawn
 #### Aspiring Software Engineer
+
+<br />
 Currently studying for my BSc at UNB in Fredericton NB Canada.
 
 👨‍💻 Software Engineering Student 🎓
@@ -10,6 +12,8 @@ Currently studying for my BSc at UNB in Fredericton NB Canada.
 🎨 3D Artist with Blender 🖌️
 
 Passionate about clean code, 3D web experiences, and continuous learning. Let's connect and collaborate! ✨
+
+<br />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -50,7 +54,7 @@ Passionate about clean code, 3D web experiences, and continuous learning. Let's 
   <img src="https://profile-counter.glitch.me/Shahriar-Kariman/count.svg?"  />
 </div>
 
-<br></br>
+<br />
 
 <h3 align="left">🔥   My Stats :</h3>
 
