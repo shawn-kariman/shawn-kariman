@@ -12,7 +12,6 @@ Currently studying for my BSc at UNB in Fredericton NB Canada.
 🎨 3D Artist with Blender 🖌️
 
 Passionate about clean code, 3D web experiences, and continuous learning. Let's connect and collaborate! ✨
-
 </pre>
 
 <div align="left">
