@@ -43,6 +43,8 @@ Passionate about clean code, 3D web experiences, and continuous learning. Let's 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+<br />
+
+### Some Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Kariman&layout=compact)
