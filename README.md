@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Shawn
 #### Aspiring Software Engineer
 
-<br />
+<br>
 Currently studying for my BSc at UNB in Fredericton NB Canada.
-<br />
 
 👨‍💻 Software Engineering Student 🎓
 🚀 JavaScript & React Enthusiast
@@ -14,7 +13,7 @@ Currently studying for my BSc at UNB in Fredericton NB Canada.
 
 Passionate about clean code, 3D web experiences, and continuous learning. Let's connect and collaborate! ✨
 
-<br />
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -50,7 +49,7 @@ Passionate about clean code, 3D web experiences, and continuous learning. Let's 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<br />
+<br>
 
 ### Profile Views
 <div align="center">
