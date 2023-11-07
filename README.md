@@ -69,7 +69,7 @@ Passionate about clean code, 3D web experiences, and continuous learning. Let's 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shahriar-Kariman&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Shahriar-Kariman&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
