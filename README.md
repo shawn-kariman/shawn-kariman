@@ -11,7 +11,7 @@ Currently studying for my BSc at UNB in Fredericton NB Canada.
 ♟ Chess player ♛
 🎨 3D Artist with Blender 🖌️
 
-Passionate about clean code, 3D web experiences, and continuous learning. Let's connect and collaborate! ✨
+Passionate about game dev, 3D web experiences, and continuous learning. Let's connect and collaborate! ✨
 </pre>
 
 <div align="left">
