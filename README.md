@@ -1,6 +1,6 @@
 ### Hi, I'm Shawn 👋
 
-I'm a software engineering graduate based in Fredericton, NB, focused on building modern, performant web applications and interactive user experiences. I enjoy working with React, Next.js, and SvelteKit — often blending in 3D elements with Three.js and Threlte.
+I'm a software engineering graduate based in Fredericton, NB, focused on building modern, performant web applications and interactive user experiences. I enjoy working with React, Next.js, and SvelteKit — often blending in 3D elements with R3F, Three.js and Threlte.
 
 🧠 Always learning |♟️ Chess Enthusiast | 🧪 Side projects fuel me
 
