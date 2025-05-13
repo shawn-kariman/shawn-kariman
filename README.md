@@ -14,7 +14,7 @@ I'm a software engineering graduate based in Fredericton, NB, focused on buildin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,svelte,nextjs,threejs,git,github,postgresql,sql,docker,python,c,java,linux" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,svelte,nextjs,threejs,git,github,postgresql,mysql,docker,python,c,java,linux" />
   </a>
 </p>
 
