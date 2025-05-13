@@ -1,17 +1,15 @@
-### Hi there 👋, my name is Shawn
-#### Aspiring Software Engineer
+### Hi, I'm Shawn 👋
 
-<pre>
-Currently studying for my BSc at UNB in Fredericton NB Canada.
+I'm a software engineering graduate based in Fredericton, NB, focused on building modern, performant web applications and interactive user experiences. I enjoy working with React, Next.js, and SvelteKit — often blending in 3D elements with Three.js and Threlte.
 
-👨‍💻 Software Engineering Student 🎓
-🚀 JavaScript & React Enthusiast
-🎮 3D Web Developer 🌐
-🔍 Always learning and exploring
-♟ Chess player ♛
-🎨 3D Artist with Blender 🖌️
+🧠 Always learning |♟️ Chess Enthusiast | 🧪 Side projects fuel me
 
-Passionate about game dev, 3D web experiences, and continuous learning. Let's connect and collaborate! ✨
+* 🔭 Currently building a 3D chess platform with SvelteKit + Threlte
+* 🌱 Exploring advanced WebGL and full-stack development patterns
+* 💬 Ask me about: React, SvelteKit, Three.js, chess, or turning ideas into clean code
+* 📫 Reach me: [shawnkariman@gmail.com](mailto:shawnkariman@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/shawn-kariman)
+
 </pre>
 
 <div align="left">
@@ -35,16 +33,12 @@ Passionate about game dev, 3D web experiences, and continuous learning. Let's co
   <img width="12" />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
